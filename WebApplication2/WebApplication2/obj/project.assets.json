@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.16",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.16",
+      "Microsoft.AspNetCore.Identity.UI >= 6.0.16",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.16",
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.16"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Super\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Super\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectName": "WebApplication2",
+      "projectPath": "C:\\Users\\Super\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "packagesPath": "C:\\Users\\Super\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Super\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Super\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://packagesource": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.16, )"
+          },
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.16, )"
+          },
+          "Microsoft.AspNetCore.Identity.UI": {
+            "target": "Package",
+            "version": "[6.0.16, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[6.0.16, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "[6.0.16, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.SqlServer' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.SqlServer'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Identity.EntityFrameworkCore' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Identity.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Tools' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Tools'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Identity.UI' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Identity.UI'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Identity.UI"
+    }
+  ]
+}

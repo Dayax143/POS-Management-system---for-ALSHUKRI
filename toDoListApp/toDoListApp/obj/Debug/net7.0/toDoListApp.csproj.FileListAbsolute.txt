@@ -1,0 +1,9 @@
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.csproj.AssemblyReference.cache
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.AssemblyInfoInputs.cache
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.AssemblyInfo.cs
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.RazorAssemblyInfo.cache
+C:\Users\Super\source\repos\toDoListApp\toDoListApp\obj\Debug\net7.0\toDoListApp.RazorAssemblyInfo.cs

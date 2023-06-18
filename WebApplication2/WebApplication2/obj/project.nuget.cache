@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbM7et7BdJKgAggjfb7ygIneJKtKukN9CKgTCJqmAnc6xUSYukQxdCaPki+jbdvXLQk1sxFJXrJw8hy1bYxksw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Super\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.SqlServer' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.SqlServer'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Identity.EntityFrameworkCore' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Identity.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.EntityFrameworkCore.Tools' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.EntityFrameworkCore.Tools'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Identity.UI' from remote source 'https://packagesource/FindPackagesById()?id='Microsoft.AspNetCore.Identity.UI'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Identity.UI"
+    }
+  ]
+}
